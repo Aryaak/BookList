@@ -14,6 +14,9 @@ Created by following a playlist from [WEB PROGRAMMING UNPAS](https://www.youtube
 
 * PHP MVC (Native)
 * PDO Database (Mysql)
+* Javascript
+* Jquery
+* Ajax
 * HTML5
 * CSS3
 * Bootstrap4
